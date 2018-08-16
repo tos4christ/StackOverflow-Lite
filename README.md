@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/tos4christ/StackOverflow-Lite.svg?branch=master)](https://travis-ci.org/tos4christ/StackOverflow-Lite)
+
 # StackOverflow-Lite
 A platform where people can ask question and provide answers
 Post any question and chose the answers that are acceptale to your questions from the contributing users.
