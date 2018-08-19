@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/tos4christ/StackOverflow-Lite.svg?branch=master)](https://travis-ci.org/tos4christ/StackOverflow-Lite)
+[![Build Status](https://travis-ci.org/tos4christ/StackOverflow-Lite.svg?branch=tos4christ-patch-2)](https://travis-ci.org/tos4christ/StackOverflow-Lite)
 
 # StackOverflow-Lite
 A platform where people can ask question and provide answers
